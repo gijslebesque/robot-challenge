@@ -9,6 +9,7 @@ In order to have the voice functionality, add the responsive voice script to you
 
 <script src="http://code.responsivevoice.org/responsivevoice.js"></script>
 
+
 The API details of responsive voice can be found at https://responsivevoice.org/api/
 
 # Extra reading 
