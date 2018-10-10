@@ -6,6 +6,7 @@ The challenge is to create a page with an image of a robot and in input field. T
 In here you'll find the basic folder structure and materials for the robot challenge. 
 
 In order to have the voice functionality, add the responsive voice script to your page:
+
 <script src="http://code.responsivevoice.org/responsivevoice.js"></script>
 
 The API details of responsive voice can be found at https://responsivevoice.org/api/
