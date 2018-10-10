@@ -1,5 +1,5 @@
 # Robot challenge
-The challenge is to create a page with an image of a robot and in input field. The entered input will be spoken out loud after a button click.
+The challenge is to create a page with an image of a robot and input field. The entered input will be spoken out loud after a button click.
 
 [Click here](https://gijslebesque.github.io/) to see an example.
 
