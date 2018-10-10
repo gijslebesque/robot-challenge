@@ -12,7 +12,7 @@ The challenge is to create a page with an image of a robot and input field. The 
 3. Start with the basic html structure. You can find an html template at https://www.w3schools.com/html/. 
 
 4. Link the right font family by copying the following tag in the head tag:
-  **"<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">"**
+  ***"<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">"***
   
 5. Include your custom styling css by adding the following tag in the head: **<link rel="stylesheet" href="./css/style.css">**
   
