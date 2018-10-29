@@ -5,7 +5,7 @@ The challenge is to create a page with an image of a robot and input field. The 
 
 
 # Getting started
-1. First download a text editor of your liking. I personally use Sublime Text. Which you can download at https://www.sublimetext.com/.
+1. First download a text editor to your liking. I personally use Sublime Text. Which you can download at https://www.sublimetext.com/.
 
 2. Download this repository for the basic folder structure and materials such as images. 
 
